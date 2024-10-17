@@ -8,7 +8,7 @@ public class Main {
 
         Gestion gestion = new Gestion();
         gestion.creerZoo(monZoo);
-        gestion.menuPrincipal(monZoo);
+//        gestion.menuPrincipal(monZoo);
 
 
 
